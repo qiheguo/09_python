@@ -100,7 +100,7 @@ with st.sidebar:
     """)
     
     # 这里的链接请替换成你真实的 GitHub 仓库地址
-    github_url = "https://github.com/GuoQihe" # <--- TODO: 修改这里
+    github_url = "https://github.com/qiheguo/09_python.git" # <--- TODO: 修改这里
     st.link_button("🌟 Star on GitHub", github_url)
     
     st.markdown(f"[查看源码]({github_url})")
