@@ -175,7 +175,7 @@ st.markdown(
     """
     <div style='text-align: center; color: grey;'>
         Made with ❤️ by <b>GuoQihe</b> | 
-        <a href='https://github.com/GuoQihe' target='_blank'>GitHub Source Code</a>
+        <a href='https://github.com/qiheguo/09_python.git' target='_blank'>GitHub Source Code</a>
     </div>
     """, 
     unsafe_allow_html=True
