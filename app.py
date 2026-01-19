@@ -174,7 +174,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: grey;'>
-        Made with ❤️ by <b>GuoQihe</b> | 
+        有问题请联系 <b>GuoQihe</b> | qiheguo53@gmail.com 
         <a href='https://github.com/qiheguo/09_python.git' target='_blank'>GitHub Source Code</a>
     </div>
     """, 
